@@ -1,0 +1,45 @@
+$ python3 Vernam-Cipher.py
+
+Welcome to Vernam's Ciphers!
+Here, you can encrypt and decrypt text using a Vernam Cipher!
+In order to use the Vernam Cipher, you must first have a key to encrypt or decrypt text. It is recommended to use a key only for one encryption and one decryption.
+You can also create keys that will be saved as files on the computer and delete keys from the computer on Vernam's Ciphers.
+
+Would you like to encrypt text, decrypt text, generate keys, or delete keys (e/dcrpt/g/del) ? g
+NOTE: Key(s) will be generated and entered into files. Each keys will have its own text file and all the these files will be stored in a folder.
+Enter the name of the folder the key(s) will be stored in: keys
+Sorry, this folder already exists.
+Enter the name of the folder the key(s) will be stored in: keys
+Enter how many keys you would like to generate: 3
+Enter the number of characters in each key: 128
+Keys generated
+Would you like to email your keys (y/n) (NOTE: Can only use the Gmail provider, which requires an App Password) ? n
+
+Would you like to use Vernam's Ciphers once more (y/n) ? y
+Here, you can encrypt and decrypt text using a Vernam Cipher!
+In order to use the Vernam Cipher, you must first have a key to encrypt or decrypt text. It is recommended to use a key only for one encryption and one decryption.
+You can also create keys that will be saved as files on the computer and delete keys from the computer on Vernam's Ciphers.
+
+Would you like to encrypt text, decrypt text, generate keys, or delete keys (e/dcrpt/g/del) ? e
+Enter the full name of the key file you would like to use to encrypt your plaintext (e.g. ./tmp/keys/key1.txt): keys/key1.txt
+If the key file is in the default foler (e.g. ./tmp/keys/key1.txt), then hit enter. Else enter the folder name here.
+Enter the text you would like to encrypt (NOTE: Can only be 128 character(s) long) : DenverColorado
+ENCRYPTED TEXT: 'jT2RVEz8JLbn!
+
+Would you like to send the encryption/decryption (NOTE: Can only send using the Gmail provider. You must have an App Password to do so.) (y/n)? n
+Would you like to use Vernam's Ciphers once more (y/n) ? y
+Here, you can encrypt and decrypt text using a Vernam Cipher!
+In order to use the Vernam Cipher, you must first have a key to encrypt or decrypt text. It is recommended to use a key only for one encryption and one decryption.
+You can also create keys that will be saved as files on the computer and delete keys from the computer on Vernam's Ciphers.
+
+Would you like to encrypt text, decrypt text, generate keys, or delete keys (e/dcrpt/g/del) ? dcrpt
+Enter the encrypted text you would like to decrypt.'jT2RVEz8JLbn!
+Enter the full name of the key file that contains the key that encrypted the code: keys/key1.txt
+If the file you are looking for is in a folder within Vernam_Cipher_Key_Folders, then enter the folder name here. Else, just hit enter:
+DECRYPTED TEXT: DenverColorado
+
+Would you like to send the encryption/decryption (NOTE: Can only send using the Gmail provider. You must have an App Password to do so.) (y/n)? n
+
+Would you like to use Vernam's Ciphers once more (y/n) ? n
+Thanks for using Vernam's Ciphers!
+

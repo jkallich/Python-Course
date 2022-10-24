@@ -1,0 +1,20 @@
+$ python3 Coin-Flip-Simulation.py
+Welcome to Coin Crazy!
+Here, you can flip a coin as many times as you wish!
+
+Type something and hit enter to begin! rain
+
+
+Flipping coin.....
+.
+.
+.
+
+
+
+TAILS!!!
+
+
+Would you like to flip again (y/n) ?: n
+Thank you for using Coin Crazy!
+

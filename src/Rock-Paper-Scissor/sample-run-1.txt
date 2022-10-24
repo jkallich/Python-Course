@@ -1,0 +1,7 @@
+$ python3 Rock-Paper-Scissor.py
+Rock crushes scissor, scissor cuts paper, and paper covers rock.Let the games BEGIN!!
+
+Do you want to be rock, paper, or scissor(or quit)? rock
+You chose rock,and the computer chose scissor.
+You win!
+

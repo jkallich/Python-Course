@@ -1,0 +1,78 @@
+$ python3 Mad_Lib.py
+
+Welcome to EZ Mad Libs!
+
+
+
+Here you can enter some words and a Mad Lib template will automatically be filled out with the words!
+
+Hit enter to begin!!
+
+Mad_Lib3.txt
+Enter a noun: hat
+Enter an adjective: creepy
+Enter a plural noun: headphones
+Enter a plural noun: bunnies
+Enter a verb: defenestrate
+Enter an adjective: supercalifragilisticexpialidocious
+Enter an adjective: black
+Enter an adjective: jumpy
+Enter a noun: mouse
+Enter a verb which ends with '-ing': hurdling
+Enter a verb which ends with '-ing': shouting
+Enter a verb in the past tense: fainted
+Enter an emotion: furious
+Enter a verb in the past tense: tried
+Enter an emotion: sadness
+Enter a verb which ends with '-ing': yodeling
+Enter an adjective: pretty
+Enter a noun: alien spaceship
+Enter a verb which ends with '-ing': sewing
+Enter a plural noun: planets
+Enter an adverb: blobily
+Enter an adjective: shiny
+Enter an adverb: slowly
+
+Original Template:
+
+
+Once upon a time, there was a _____(noun). He lived in a(n) _____(adjective) town high
+ in the _____(plural noun). His family owned a little flock of _____(plural noun). Everyday,
+ he and his father would take the flock out to _____(verb) in the _____(adjective)
+ hills. He was quite _____(adjective) and loved to play pranks on anyone and everyone.
+ One day, he thought it would be very _____(adjective) if he pretended there was
+ a dangerous _____(noun) _____(ing verb) around. So he yelled, "Help! Help!" and everyone came
+ _____(ing verb) to him. But when they arrived, he simply _____(past tense verb) and
+ said, "No, no. There was nothing. It was all a joke." The villagers were
+ very _____(emotion). They _____(past tense verb) away, ashamed of their foolishness. The next day,
+ he did the same thing. And the next, and the next. The villagers eventually
+ became quite _____(emotion) at him and stopped _____(ing verb) over when he began screaming.
+ But one day, he saw a terrifying _____(adjective) _____(noun) _____(ing verb) through the _____(plural
+ noun). He screamed, "Help! Help! It's coming to get me! It's coming to eat
+ me!" but no one came to his rescue. He was _____(adverb) eaten by a
+ real creature this time, and the flock was also comsumed by the _____(adjective) beast.
+ So what is the moral of this story? Lies can and will _____(adverb) break the trust of anyone.
+Filled in Mad Lib:
+
+
+Once upon a time, there was a hat. He lived in a(n) creepy town high
+ in the headphones. His family owned a little flock of bunnies. Everyday, he and
+ his father would take the flock out to defenestrate in the supercalifragilisticexpialidocious hills. He
+ was quite black and loved to play pranks on anyone and everyone. One day,
+ he thought it would be very jumpy if he pretended there was a dangerous
+ mouse hurdling around. So he yelled, "Help! Help!" and everyone came shouting to him.
+ But when they arrived, he simply fainted and said, "No, no. There was nothing.
+ It was all a joke." The villagers were very furious. They tried away, ashamed
+ of their foolishness. The next day, he did the same thing. And the next,
+ and the next. The villagers eventually became quite sadness at him and stopped yodeling
+ over when he began screaming. But one day, he saw a terrifying pretty alien
+ spaceship sewing through the planets. He screamed, "Help! Help! It's coming to get me!
+ It's coming to eat me!" but no one came to his rescue. He was
+ blobily eaten by a real creature this time, and the flock was also comsumed
+ by the shiny beast. So what is the moral of this story? Lies can
+ and will slowly break the trust of anyone.
+
+Would you like to fill out another Mad Lib (y/n)? n
+
+Thank you for using EZ Mad Libs!
+

@@ -1,0 +1,22 @@
+$ python3 Pig-Latin.py
+
+Welcome to the Pig Latin Converter!----------------------------------------------------------------------------------------------------
+
+Here you can enter in some text and receive a pig latin version of it!
+REMINDER: This is a simple Pig Latin Converter. It will not recognize compound words or identify whether a y is acting as a vowel or not. Please take care.
+REMINDER: The converter will not adjust for hyphens, parentheses, or special characters. You may type in commas, semicolons, periods and punctuaction at the end of the text.
+
+Hit enter to convert your first lines!
+
+
+Choose what ending you would like for words that begin with vowels (-hay(h)/-yay(y)/-way(w) : w
+
+Enter the text you wish to convert: Denver has an airport.
+
+Here is your converted text: enverday ashay anway airportway.
+
+
+Would you like to convert more text (y/n) ? n
+
+Thank you for using Pig Latin Converter!
+

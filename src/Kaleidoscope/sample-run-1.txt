@@ -1,0 +1,4 @@
+$ python3 Kaleidoscope.py
+
+shows graphical user interface window with 6 x 4 spirals
+

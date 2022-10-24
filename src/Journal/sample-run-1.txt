@@ -1,0 +1,60 @@
+$ python3 Journal.py
+Welcome to Journals 4 All!
+
+Here you can write in journals and save them right here on your computer!
+Would you like to create a folder, create a file, or write a journal entry (cfol/cfile/e): cfol
+Enter what you wish the name of the new folder to be: data
+Your password is: nkyiLl2 .
+Save your password in a safe place so that every time you open this folder, you can access it.
+Would you like to use Journals 4 All again (y/n)? y
+
+Here you can write in journals and save them right here on your computer!
+Would you like to create a folder, create a file, or write a journal entry (cfol/cfile/e): cfile
+Would you like to create a new file that is within a folder other than Journals (y/n)? y
+Enter the name of the folder you wish to open: data
+Enter the password: nkyiLl2
+Enter what you wish the name of the new file to be (e.g. journal-data-file-1.txt): journal-data-file-1.txt
+New file created.
+
+Would you like to use Journals 4 All again (y/n)? y
+
+Here you can write in journals and save them right here on your computer!
+Would you like to create a folder, create a file, or write a journal entry (cfol/cfile/e): e
+Would you like to add an entry to a file which is within a folder other than Journals (y/n)? y
+Enter the name of the folder you wish to open: data
+Enter the password: nkyiLl2
+Enter the full name of the file you wish to open: journal-data-file-1.txt
+File path: /Users/kallb2/Downloads/ProgrammingStuff/my-work/Python-Udemy-Course/src/Journal/data/journal-data-file-1.txt
+Enter the entry here (NOTE: For new lines, enter a backslash then 'n'): I am going to Washington park.
+Here is the entry:
+
+I am going to Washington park.
+
+Add entry to journal (y/n)? n
+
+Enter the name of the folder you wish to open: data
+Enter the password: nkyiLl2
+Enter the full name of the file you wish to open: journal-data-file-1.txt
+File path: /Users/kallb2/Downloads/ProgrammingStuff/my-work/Python-Udemy-Course/src/Journal/data/journal-data-file-1.txt
+Enter the entry here (NOTE: For new lines, enter a backslash then 'n'): I am done walking. I am going home.
+Here is the entry:
+
+I am done walking. I am going home.
+
+Add entry to journal (y/n)? n
+
+Enter the name of the folder you wish to open: data
+Enter the password: nkyiLl2
+Enter the full name of the file you wish to open: journal-data-file-1.txt
+File path: /Users/kallb2/Downloads/ProgrammingStuff/my-work/Python-Udemy-Course/src/Journal/data/journal-data-file-1.txt
+Enter the entry here (NOTE: For new lines, enter a backslash then 'n'): I am going to take i-25 freeway.
+Here is the entry:
+
+I am going to take i-25 freeway.
+
+Add entry to journal (y/n)? y
+Entry logged.
+Would you like to use Journals 4 All again (y/n)? n
+
+Thank you for using Journals 4 All!
+

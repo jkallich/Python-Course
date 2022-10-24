@@ -1,0 +1,9 @@
+$ python3 Data_Analysis.py
+[13, 14, 18, 18, 27, 28, 31, 37, 40, 47]
+The smallest number: 13
+The biggest number: 47
+The average: 27.3
+The median: 27.5
+The mode: [18]
+Is it a prime number?   {13: True, 14: False, 18: False, 27: False, 28: False, 31: True, 37: True, 40: False, 47: True}
+

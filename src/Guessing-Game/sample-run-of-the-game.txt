@@ -1,0 +1,153 @@
+$ python3 Guessing-Game.py
+
+function f_read_csv_file ...
+-------------------------------------------------------------------------------------------------------
+Welcome to the GREAT GUESSING GAME!
+You have been chosen to use your cunning and wit to deduce the MAGIC NUMBER!!!
+Continue IF YOU DARE. . . . .
+-------------------------------------------------------------------------------------------------------
+.
+.
+.
+.
+.
+-------- INSTRUCTIONS --------
+To begin the game, type your name when Gerald asks for it and hit enter.
+To exit the game while the game is still in action, type stop and hit enter.
+
+What is your name? Jahnavi
+  Difficulty Levels:
+    level 1: numbers from 1 to 50
+    level 2: numbers from 1 to 100
+    level 3: numbers from 1 to 200
+    level 4: numbers from 1 to 500
+    level 5: numbers from 1 to 1000
+Your current level is 1. Do you want to change it? n/y n
+You will be playing at level 1, Pick a number between 1 and 50
+I have thought of a number, Jahnavi. Take a guess. 1
+Too low. Guess again. 25
+Too low. Guess again. 37
+Too high. Guess again. 30
+Too low. Guess again. 28
+Too low. Guess again. 29
+Too low. Guess again. 30
+Too low. Guess again. 33
+Too low. Guess again. 35
+Too low. Guess again. 36
+Your score is: 10
+Well done, Jahnavi!
+Do you want to play again? n/y n
+Thank you for playing,Jahnavi!
+function f_write_csv_file ...
+[('2020-05-25T15:28:07', 2, 4, 'aaaa'),
+ ('2020-05-25T15:28:07', 3, 5, 'aaaa'),
+ ('2020-05-25T15:30:12', 4, 6, 'aaaa'),
+ ('2020-05-25T15:33:53', 1, 7, 'bbbb'),
+ ('2020-05-25T15:33:53', 2, 7, 'bbbb'),
+ ('2020-05-25T15:36:50', 5, 9, 'bbbb'),
+ ('2020-05-25T15:36:50', 2, 9, 'cccc'),
+ ('2020-05-27T19:46:15', 1, 2, 'aaaa'),
+ ('2020-05-27T20:37:33', 5, 13, 'cccc'),
+ ('2020-05-28T09:01:38', 5, 9, 'cccc'),
+ ('2020-05-28T09:01:38', 5, 16, 'cccc'),
+ ('2020-05-28T09:20:25', 1, 5, 'cccc'),
+ ('2020-05-29T10:53:00', 3, 6, 'Awesome Sauce'),
+ ('2020-05-29T10:53:00', 2, 5, 'Kappa'),
+ ('2022-10-23T14:58:06', 1, 10, 'Jahnavi')]
+function f_print_ranking_all ...
+level: 1
+[('2020-05-25T15:33:53',
+  1,
+  7,
+  'bbbb'),
+ ('2020-05-27T19:46:15',
+  1,
+  2,
+  'aaaa'),
+ ('2020-05-28T09:20:25',
+  1,
+  5,
+  'cccc'),
+ ('2022-10-23T14:58:06',
+  1,
+  10,
+  'Jahnavi')]
+level: 2
+[('2020-05-25T15:28:07',
+  2,
+  4,
+  'aaaa'),
+ ('2020-05-25T15:33:53',
+  2,
+  7,
+  'bbbb'),
+ ('2020-05-25T15:36:50',
+  2,
+  9,
+  'cccc'),
+ ('2020-05-29T10:53:00',
+  2,
+  5,
+  'Kappa')]
+level: 3
+[('2020-05-25T15:28:07',
+  3,
+  5,
+  'aaaa'),
+ ('2020-05-29T10:53:00',
+  3,
+  6,
+  'Awesome Sauce')]
+level: 4
+[('2020-05-25T15:30:12',
+  4,
+  6,
+  'aaaa')]
+level: 5
+[('2020-05-25T15:36:50',
+  5,
+  9,
+  'bbbb'),
+ ('2020-05-27T20:37:33',
+  5,
+  13,
+  'cccc'),
+ ('2020-05-28T09:01:38',
+  5,
+  9,
+  'cccc'),
+ ('2020-05-28T09:01:38',
+  5,
+  16,
+  'cccc')]
+
+ --- Final Ranking by Level ---
+  Level: 1
+              rank  score   name
+              ----  -----   ----
+                1     2     aaaa
+                2     5     cccc
+                3     7     bbbb
+                4    10     Jahnavi
+  Level: 2
+              rank  score   name
+              ----  -----   ----
+                1     4     aaaa
+                2     5     Kappa
+                3     7     bbbb
+                4     9     cccc
+  Level: 3
+              rank  score   name
+              ----  -----   ----
+                1     5     aaaa
+                2     6     Awesome Sauce
+  Level: 4
+              rank  score   name
+              ----  -----   ----
+                1     6     aaaa
+  Level: 5
+              rank  score   name
+              ----  -----   ----
+                1     9     bbbb
+                1     9     cccc
+

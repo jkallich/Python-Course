@@ -1,0 +1,34 @@
+$ python3 Ceasar-Cipher.py
+
+
+Welcome to Caesar's Ciphers!----------------------------------------------------------------------------------------------
+Here, you can encrypt and decrypt text using an online Caesar Cipher!
+
+Would you like to encrypt or decrypt text (encrypt(e)/decrypt(d)) ? e
+
+Enter in the text you would like to encrypt: United States of America
+Enter the shift you would like to impose (number ONLY): 11
+
+Here is your encrypted text: 5ytEpog3ElEpDgzqgLxpCtnl
+Would you like to send an email with the encryption (y/n) ? n
+
+
+
+Would you like to encrypt or decrypt more text (y/n) ? y
+Here, you can encrypt and decrypt text using an online Caesar Cipher!
+
+Would you like to encrypt or decrypt text (encrypt(e)/decrypt(d)) ? d
+
+Enter in the text you would like to decrypt: 5ytEpog3ElEpDgzqgLxpCtnl
+Enter the shift (number ONLY): 11
+
+Here is your decrypted text: United States of America
+
+Would you like to send an email with the decryption (y/n) ? n
+
+
+
+Would you like to encrypt or decrypt more text (y/n) ? n
+
+Thank you for using Caesar's Ciphers!
+

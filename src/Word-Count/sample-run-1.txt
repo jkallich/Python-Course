@@ -1,0 +1,16 @@
+$ python3 Word-Count.py
+
+Welcome to TextLen!
+
+Here you can check the length of some text.
+You can enter the text manually, connect a file with text and check that, or get a summary of the files in a folder.
+If connecting a file or getting a summary, it is best for the file/files to be .txt file(s).
+
+Would you like to manually enter text, enter a file with text, or recieve a summary of a folder (manually(m)/file(f)/summary(s)) ? f
+Enter the full path to your file here: Word-Count.py
+The text contains 319 word(s).
+
+Would you like to check more text (y/n) ? n
+
+Thank you for using TextLen!
+

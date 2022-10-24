@@ -1,0 +1,10 @@
+wrong_check_happy_range: 30 50 150
+wrong_check_happy_range2:
+check_happy_range: 50 150
+
+wrong_check_happy_from_1: 50,150
+wrong_check_happy_from_12:
+check_happy_from_1: 50
+
+no_repeat: False
+yes_repeat: True

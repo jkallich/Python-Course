@@ -1,0 +1,52 @@
+$ python3 Blackjack-Game.py
+----------Welcome to Blackjack!----------
+Get as close to 21 as you can without going over.
+Dealer hits until he reaches 17. Aces count as 1 or 11.
+
+You have 100 chips.
+
+Place your bet: 34
+
+DEALER'S HAND:
+    <card hidden>
+    Five of Diamonds
+
+PLAYER'S HAND:
+    Eight of Diamonds
+    Queen of Clubs
+Player's Hand = 18
+
+Would you like to hit or stand (h/s)?: h
+
+DEALER'S HAND:
+    <card hidden>
+    Five of Diamonds
+
+PLAYER'S HAND:
+    Eight of Diamonds
+    Queen of Clubs
+    Ace of Clubs
+Player's Hand = 19
+
+Would you like to hit or stand (h/s)?: s
+
+Player stands Dealer's turn
+DEALER'S HAND:
+    Seven of Spades
+    Five of Diamonds
+    Ten of Spades
+
+PLAYER'S HAND:
+    Eight of Diamonds
+    Queen of Clubs
+    Ace of Clubs
+
+
+----- Dealer Busts -----
+Dealer's Hand = 22
+Player's Hand = 19
+
+Player's winnings stand at 134
+Would you like to play again (y/n)? If you do, your chips will be saved: n
+Thank you for playing!
+

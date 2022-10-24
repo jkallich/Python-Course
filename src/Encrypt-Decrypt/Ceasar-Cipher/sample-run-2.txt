@@ -1,0 +1,57 @@
+$ python3 Ceasar-Cipher.py
+
+
+Welcome to Caesar's Ciphers!----------------------------------------------------------------------------------------------
+Here, you can encrypt and decrypt text using an online Caesar Cipher!
+
+Would you like to encrypt or decrypt text (encrypt(e)/decrypt(d)) ? e
+
+Enter in the text you would like to encrypt: United States of America
+Enter the shift you would like to impose (number ONLY): 11
+
+Here is your encrypted text: 5ytEpog3ElEpDgzqgLxpCtnl
+Would you like to send an email with the encryption (y/n) ? y
+
+NOTE: Can only send emails with the Gmail provider. You will need and App Password to do so.
+
+Enter the email you wish to log into: aaaaa@gmail.com
+aaaaa@gmail.com
+Enter the password: bbbbb
+Looks like there's something wrong with your email and/or password.
+Make sure your password is an App Password, and the email is spelled correctly.
+
+Email login was not successful!
+
+Enter the email of your recipient: aaaaa@gmail.com
+Enter the subject: encrypted text
+Would you like to send the encrypted/decrypted text you have received along with the shift (y/n) ? y
+Would you like to send the encrypted/decrypted text and the shift along with an unencrypted message (y/n) ? y
+Enter the message you would like to attach: Here is the secret message
+
+Here is the message:
+
+
+Subject: encrypted text
+
+Here is the secret message
+5ytEpog3ElEpDgzqgLxpCtnl
+Shift: 11
+
+Send message (y/n) ? n
+Enter the subject: Secret message
+Would you like to send the encrypted/decrypted text you have received along with the shift (y/n) ? y
+Would you like to send the encrypted/decrypted text and the shift along with an unencrypted message (y/n) ? y
+Enter the message you would like to attach: United States of America
+
+Here is the message:
+
+
+Subject: Secret message
+
+United States of America
+5ytEpog3ElEpDgzqgLxpCtnl
+Shift: 11
+
+Send message (y/n) ? y
+Looks like there's something wrong. Please make sure everything is spelled correctly.
+

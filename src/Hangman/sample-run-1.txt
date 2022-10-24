@@ -1,0 +1,64 @@
+$ python3 Hangman.py
+
+Welcome to Hangman!
+
+To play Hangman, help Bob and guess all of the letters in the text before he swings!
+Hit enter to begin the game.
+
+
+Level 1: Easy Peasy Lemon Squeezy ..... 3-10 letters
+Level 2: Using Your Brains ..... 11+ letters
+Level 3: Rage Quit ..... 1+ words
+
+
+
+Which level would you like to play (1/2/3)? 1
+_________
+
+Enter a letter: j
+____________________
+|  /               |
+| /
+|/
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+1/8 Life Savers Used: Don't use up all of your 8 lifesavers, or Bob will ...
+_________
+
+Enter a letter: r
+___R__R__
+
+Enter a letter: a
+_A_R_AR__
+
+Enter a letter: m
+MA_R_AR__
+
+Enter a letter: t
+MATR_AR__
+
+Enter a letter: i
+MATRIAR__
+
+Enter a letter: c
+MATRIARC_
+
+Enter a letter: h
+
+
+GAME OVER!! You Win!
+MATRIARCH
+
+Would you like to play another round of Hangman (y/n)?n
+
+Thanks for playing!
+

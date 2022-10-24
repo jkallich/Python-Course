@@ -1,0 +1,15 @@
+$ python3 Palindrome.py
+Welcome to ---Palindrome Words---
+Here you can check if a word, phrase, or number is a palindrome. Check it out!
+
+Enter a word, phrase, or number: madam
+Your text is a palindrome!
+
+Would you like to check more text (y/n) ?: y
+
+Enter a word, phrase, or number: run
+Your text is not a palindrome.
+
+Would you like to check more text (y/n) ?: n
+Thank you for using Palindrome Words!
+
