@@ -2,7 +2,7 @@
 
 Course Platform: Udemy.com
 
-Course Title: Complete Python Bootcamp From Zero to Hero in Python
+Course Title: Complete Python Bootcamp
 
 Instructor: Jose Portilla, Head of Data Science at Pierian Training
 
